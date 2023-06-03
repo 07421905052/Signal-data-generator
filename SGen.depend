@@ -1,0 +1,119 @@
+# depslib dependency file v1.0
+1669477317 source:d:\cppcode\sgen\triwave.cpp
+	"TriWave.h"
+
+1668614978 d:\cppcode\sgen\triwave.h
+	<string>
+
+1670671194 source:d:\cppcode\sgen\main.cpp
+	<iostream>
+	<regex>
+	"functions.h"
+	"main.h"
+	"TriWave.h"
+	<fstream>
+	<bitset>
+	<time.h>
+	"Squmenu.h"
+	"sine_wave.h"
+	"function.h"
+	<string>
+
+1669840156 d:\cppcode\sgen\functions.h
+	"TriWave.h"
+	"modulate.h"
+
+1670537026 d:\cppcode\sgen\main.h
+	<iostream>
+
+1670667076 source:d:\cppcode\sgen\functions.cpp
+	"functions.h"
+	<iostream>
+	"main.h"
+	<time.h>
+	<fstream>
+	<bitset>
+	<cmath>
+
+1668688566 source:d:\cppcode\sgen\select.cpp
+	"select.h"
+
+1668955041 d:\cppcode\sgen\select.h
+
+1669892801 d:\cppcode\sgen\modulate.h
+
+1669892841 source:d:\cppcode\sgen\modulate.cpp
+	"modulate.h"
+
+1670635292 source:d:\cppcode\sgen\create.cpp
+	"Create.h"
+
+1670634522 d:\cppcode\sgen\create.h
+	<fstream>
+	<unistd.h>
+	<math.h>
+	"Squinput.h"
+
+1670603066 d:\cppcode\sgen\squinput.h
+	<vector>
+	<string>
+	<string.h>
+	<regex>
+	<iostream>
+
+1670629314 source:d:\cppcode\sgen\squinput.cpp
+	"Squinput.h"
+
+1670673627 source:d:\cppcode\sgen\squmenu.cpp
+	"Squmenu.h"
+
+1670673541 d:\cppcode\sgen\squmenu.h
+	<regex>
+	<string>
+	"Create.h"
+	"Modi.h"
+	"main.h"
+
+1670480086 source:d:\cppcode\sgen\coordinate.cpp
+	"coordinate.h"
+	<iostream>
+	"sine_wave.h"
+	<math.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+
+1670231798 d:\cppcode\sgen\coordinate.h
+
+1669235099 d:\cppcode\sgen\sine_wave.h
+
+1670233582 d:\cppcode\sgen\function.h
+	"sine_wave.h"
+
+1670234547 source:d:\cppcode\sgen\sine_wave.cpp
+	"sine_wave.h"
+	<iostream>
+	<regex>
+
+1670537912 source:d:\cppcode\sgen\function.cpp
+	"function.h"
+	"sine_wave.h"
+	"main.h"
+	"coordinate.h"
+	<iostream>
+	<math.h>
+	<bitset>
+	<fstream>
+	<iomanip>
+
+1670638102 d:\cppcode\sgen\modi.h
+	<fstream>
+	<unistd.h>
+	<math.h>
+	"Squinput.h"
+	"Create.h"
+	"Squmenu.h"
+
+1670638879 source:d:\cppcode\sgen\modi.cpp
+	"Modi.h"
+
